@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan le owner
+	alfa: 'https://api.arifofc.xyz', //apabila link api eror, segera laporkan le owner
 }
 
 // Free apikey
@@ -19,7 +19,7 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "RifBotZ-Mdོ" //namabot kalian
-global.ownername= "© ArifXyz" //nama kalian
+global.ownername= "©RifBotZ-Mdོ'" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
