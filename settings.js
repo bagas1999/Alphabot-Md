@@ -19,7 +19,7 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "RifBotZ-Mdོ" //namabot kalian
-global.ownername= "ArifXyz" //nama kalian
+global.ownername= "© ArifXyz" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
@@ -30,7 +30,7 @@ global.ownernomerr = "+62895347198105" //nmr wa kalian
 global.thumbnail = "./image/lol1.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi1.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895347198105","62887435047326","918156874290"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["62895347198105"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© RifBotZ-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh ArifXyz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
